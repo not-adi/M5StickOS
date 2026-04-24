@@ -1,6 +1,9 @@
 # M5StickOS
 
+![M5StickC Plus2 Preview](m5stick_preview.webp)
+
 A sleek, functional, and modern operating system designed for the M5StickC Plus2 using the Arduino IDE. 
+
 
 ## Features
 - **Multi-app Interface:** Includes a card-carousel menu and button-based navigation.
